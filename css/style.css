@@ -1,0 +1,18 @@
+.header, .hero, .body, .bar, .footer{
+    background-color: wheat;
+    margin-bottom: 10px;
+}
+.box{
+    margin: 5px 0;
+    min-height: 80px;
+    background-color: darksalmon;
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+}
+.color-teal{
+    background-color: teal;
+}
+.color-blue{
+    background-color: steelblue;
+}
